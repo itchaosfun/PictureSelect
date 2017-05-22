@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UploadImg</string>
+    <string name="title_activity_custom_album">CustomAlbumActivity</string>
+    <string name="title_activity_photo_view2">PhotoViewActivity2</string>
+</resources>
